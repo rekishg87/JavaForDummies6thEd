@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c784f0b-a10c-460a-ada0-23ffe1191683" name="Default" comment="initial commit till chapter 11">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapters/chapter12/examples/TallySales2.java" afterPath="$PROJECT_DIR$/src/chapters/chapter12/examples/TallySales2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="8c784f0b-a10c-460a-ada0-23ffe1191683" name="Default" comment="Completed TellySales2">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/DemoFinally.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/NewMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/NumberTooLargeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/OutOfRangeException.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaForDummies6thEd.iws" />
@@ -25,21 +35,7 @@
     <favorites_list name="JavaForDummies6thEd" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TallySales2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapters/chapter12/examples/TallySales2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#259#265#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,19 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapters/chapter05/examples/FallingForYou.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter05/examples/SwitchIt7.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter05/examples/GuessAgain.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter06/examples/GuessAgain.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter06/examples/Yawn.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter06/examples/AlsAllWet.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter06/examples/DeleteEvidence.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter07/examples/Account.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter07/examples/UseAccount.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/Employee.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/DoPayRoll.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/PartTimeEmployee.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/DoPayRollTypeP.java" />
         <option value="$PROJECT_DIR$/src/test/chapters/chapter08/examples/PartTimeEmployeeTest.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/PartTimeWithOver.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/DoPayRollTypeF.java" />
@@ -113,6 +96,19 @@
         <option value="$PROJECT_DIR$/src/chapters/chapter12/examples/Sale.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter12/examples/TallySales.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter12/examples/TallySales2.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryA.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryB.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/OutOfRangeException.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryC.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/NumberTooLargeException.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryD.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryLoop.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepA.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNishtsSleepB.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepB.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/DemoFinally.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/Main.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/NewMain.java" />
       </list>
     </option>
   </component>
@@ -194,32 +190,6 @@
               <option name="myItemId" value="chapters" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaForDummies6thEd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaForDummies6thEd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -240,9 +210,9 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
-  <component name="RunManager" selected="Application.TallySales2">
-    <configuration default="false" name="ShowRooms2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter11.examples.ShowRooms2" />
+  <component name="RunManager" selected="Application.NewMain">
+    <configuration default="false" name="GoodNightsSleepA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.GoodNightsSleepA" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -255,8 +225,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ShowNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter12.examples.ShowNames" />
+    <configuration default="false" name="GoodNightsSleepB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.GoodNightsSleepB" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -269,8 +239,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ShowNames2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter12.examples.ShowNames2" />
+    <configuration default="false" name="DemoFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.DemoFinally" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -283,8 +253,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TallySales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter12.examples.TallySales" />
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -297,8 +267,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TallySales2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter12.examples.TallySales2" />
+    <configuration default="false" name="NewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.NewMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,19 +341,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ShowRooms2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ShowNames" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ShowNames2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TallySales" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TallySales2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GoodNightsSleepA" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GoodNightsSleepB" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DemoFinally" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NewMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TallySales2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TallySales" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ShowNames2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ShowNames" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ShowRooms2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NewMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DemoFinally" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GoodNightsSleepB" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GoodNightsSleepA" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -416,7 +386,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439811083605</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed TellySales2">
+      <created>1439881658835</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1439881658835</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -430,7 +406,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1696" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -439,11 +415,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272727" sideWeight="0.502445" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32834226" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32834226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272727" sideWeight="0.49755502" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -470,7 +446,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit till chapter 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit till chapter 11" />
+    <MESSAGE value="Completed TellySales2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed TellySales2" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -487,90 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter05/examples/JustSwitchIt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9365609">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter05/examples/FallingForYou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48247078">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter05/examples/SwitchIt7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8146911">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter06/examples/GuessAgain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.624374">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter06/examples/Yawn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45409015">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter06/examples/AlsAllWet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46076795">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter06/examples/DeleteEvidence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39732888">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter07/examples/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3622705">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter07/examples/UseAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.006677796">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter08/examples/DoPayRoll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85141903">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter08/examples/DoPayRollTypeP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11352254">
-          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter08/examples/PartTimeEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39732888">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapters/chapter08/examples/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.624374">
@@ -852,11 +745,125 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapters/chapter12/examples/TallySales2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85">
+        <state vertical-scroll-proportion="0.5622933">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
             <element signature="e#259#265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.765">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63166666">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/OutOfRangeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#82#109#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.745">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/NumberTooLargeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding>
+            <element signature="e#81#108#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.745">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63166666">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7083333">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62333333">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/DemoFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87833333">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.765">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter13/examples/NewMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56666666">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
