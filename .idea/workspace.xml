@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c784f0b-a10c-460a-ada0-23ffe1191683" name="Default" comment="Completed TellySales2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/DemoFinally.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/GoodNightsSleepB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/InventoryLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/NewMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/NumberTooLargeException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter13/examples/OutOfRangeException.java" />
+    <list default="true" id="8c784f0b-a10c-460a-ada0-23ffe1191683" name="Default" comment="Completed chapter 13">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/frames/ArtFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/drawings/Drawing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/examples/DrawingWide.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/drawings/DrawingWideBB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/examples/ShowFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/drawings/ShowFrameWideBB.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaForDummies6thEd.iws" />
@@ -58,13 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/chapters/chapter08/examples/PartTimeEmployeeTest.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/PartTimeWithOver.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/DoPayRollTypeF.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/Temperature.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/UseTemperature.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/TemperatureNice.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/UseTemperaturNice.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/FullTimeEmployee.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/ShowAFrame.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/SimpleFrame.java" />
@@ -109,6 +96,13 @@
         <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/DemoFinally.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/Main.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter13/examples/NewMain.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter14/frames/ArtFrame.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter14/drawings/DrawingWideBB.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter14/examples/ShowFrame.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter14/examples/DrawingWide.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter14/examples/ShowFrameWideBB.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter14/drawings/ShowFrameWideBB.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter14/drawings/Drawing.java" />
       </list>
     </option>
   </component>
@@ -210,35 +204,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
-  <component name="RunManager" selected="Application.NewMain">
-    <configuration default="false" name="GoodNightsSleepA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.GoodNightsSleepA" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaForDummies6thEd" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GoodNightsSleepB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.GoodNightsSleepB" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaForDummies6thEd" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ShowFrameWideBB">
     <configuration default="false" name="DemoFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.DemoFinally" />
       <option name="VM_PARAMETERS" />
@@ -269,6 +235,34 @@
     </configuration>
     <configuration default="false" name="NewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.NewMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaForDummies6thEd" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShowFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter14.examples.ShowFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaForDummies6thEd" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShowFrameWideBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter14.drawings.ShowFrameWideBB" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -341,19 +335,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GoodNightsSleepA" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GoodNightsSleepB" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DemoFinally" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NewMain" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DemoFinally" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NewMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ShowFrame" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ShowFrameWideBB" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NewMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DemoFinally" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GoodNightsSleepB" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GoodNightsSleepA" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ShowFrameWideBB" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ShowFrame" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NewMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DemoFinally" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -392,7 +386,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439881658835</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed chapter 13">
+      <created>1439890696092</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1439890696092</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -447,7 +447,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit till chapter 11" />
     <MESSAGE value="Completed TellySales2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed TellySales2" />
+    <MESSAGE value="Completed chapter 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed chapter 13" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -464,48 +465,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter08/examples/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.624374">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter09/examples/Temperature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5459098">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter09/examples/UseTemperature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5676127">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter09/examples/TemperatureNice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79465777">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter09/examples/UseTemperaturNice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48247078">
-          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter08/examples/FullTimeEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28380635">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapters/chapter09/examples/ShowAFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22704507">
@@ -759,7 +718,7 @@
         <state vertical-scroll-proportion="0.765">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -769,7 +728,7 @@
         <state vertical-scroll-proportion="0.63166666">
           <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -779,7 +738,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#82#109#1" expanded="true" />
+            <element signature="e#82#109#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -798,9 +757,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-          <folding>
-            <element signature="e#81#108#1" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +766,7 @@
         <state vertical-scroll-proportion="0.745">
           <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -819,7 +776,7 @@
         <state vertical-scroll-proportion="0.63166666">
           <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -853,7 +810,7 @@
         <state vertical-scroll-proportion="0.765">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -864,6 +821,72 @@
           <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter14/examples/ShowFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter14/examples/DrawingWide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter14/drawings/ShowFrameWideBB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter14/frames/ArtFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter14/drawings/DrawingWideBB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter14/drawings/Drawing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19833334">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
           </folding>
         </state>
       </provider>
