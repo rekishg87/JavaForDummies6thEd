@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c784f0b-a10c-460a-ada0-23ffe1191683" name="Default" comment="Completed chapter 13">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/frames/ArtFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/drawings/Drawing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/examples/DrawingWide.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/drawings/DrawingWideBB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/examples/ShowFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter14/drawings/ShowFrameWideBB.java" />
+    <list default="true" id="8c784f0b-a10c-460a-ada0-23ffe1191683" name="Default" comment="Completed chapter 14">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter15/examples/MoneyFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter15/examples/ShowGameFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapters/chapter15/examples/ShowMoneyFrame.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaForDummies6thEd.iws" />
@@ -52,12 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapters/chapter08/examples/FullTimeEmployee.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/ShowAFrame.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter09/examples/SimpleFrame.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter10/examples/Player.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter10/examples/ShowTeamFrame.java" />
-        <option value="$PROJECT_DIR$/src/chapters/chapter10/examples/TeamFrame.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter10/examples/PlayerPlus.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter10/examples/EnglishSpeakingWorld.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter10/examples/GetGoing.java" />
@@ -103,6 +97,12 @@
         <option value="$PROJECT_DIR$/src/chapters/chapter14/examples/ShowFrameWideBB.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter14/drawings/ShowFrameWideBB.java" />
         <option value="$PROJECT_DIR$/src/chapters/chapter14/drawings/Drawing.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter15/examples/MoneyFrame.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter15/examples/ShowMoneyFrame.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame2.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter15/examples/ShowGameFrame.java" />
+        <option value="$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame3.java" />
       </list>
     </option>
   </component>
@@ -204,35 +204,12 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
-  <component name="RunManager" selected="Application.ShowFrameWideBB">
-    <configuration default="false" name="DemoFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.DemoFinally" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaForDummies6thEd" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaForDummies6thEd" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapters.chapter15.examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ShowGameFrame">
     <configuration default="false" name="NewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapters.chapter13.examples.NewMain" />
       <option name="VM_PARAMETERS" />
@@ -263,6 +240,34 @@
     </configuration>
     <configuration default="false" name="ShowFrameWideBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapters.chapter14.drawings.ShowFrameWideBB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaForDummies6thEd" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShowGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter15.examples.ShowGameFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaForDummies6thEd" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShowMoneyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter15.examples.ShowMoneyFrame" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -335,19 +340,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DemoFinally" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NewMain" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ShowFrame" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ShowFrameWideBB" />
+      <item index="0" class="java.lang.String" itemvalue="Application.NewMain" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ShowFrame" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ShowFrameWideBB" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ShowGameFrame" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ShowMoneyFrame" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ShowFrameWideBB" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ShowFrame" />
-        <item index="2" class="java.lang.String" itemvalue="Application.NewMain" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DemoFinally" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ShowGameFrame" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ShowMoneyFrame" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ShowFrameWideBB" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ShowFrame" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NewMain" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -392,7 +397,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439890696092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completed chapter 14">
+      <created>1439898601656</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1439898601656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -448,7 +459,8 @@
     <MESSAGE value="initial commit till chapter 11" />
     <MESSAGE value="Completed TellySales2" />
     <MESSAGE value="Completed chapter 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed chapter 13" />
+    <MESSAGE value="Completed chapter 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed chapter 14" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -465,48 +477,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter09/examples/ShowAFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22704507">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter09/examples/SimpleFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25542572">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter10/examples/ShowTeamFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22704507">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter10/examples/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter10/examples/TeamFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43238732">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapters/chapter10/examples/PlayerPlus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapters/chapter10/examples/GetGoing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42570952">
@@ -830,7 +800,7 @@
         <state vertical-scroll-proportion="0.34">
           <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -840,9 +810,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -874,8 +844,8 @@
         <state vertical-scroll-proportion="0.34">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#283#284#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -885,8 +855,74 @@
         <state vertical-scroll-proportion="0.19833334">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter15/examples/ShowMoneyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31166667">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter15/examples/MoneyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2019#2020#0" expanded="true" />
+            <element signature="e#2051#2052#0" expanded="true" />
+            <element signature="e#2232#2233#0" expanded="true" />
+            <element signature="e#2264#2265#0" expanded="true" />
+            <element signature="e#2526#2527#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2631#2632#0" expanded="true" />
+            <element signature="e#2679#2680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter15/examples/GameFrame3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7733333">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapters/chapter15/examples/ShowGameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.255">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
           </folding>
         </state>
       </provider>
